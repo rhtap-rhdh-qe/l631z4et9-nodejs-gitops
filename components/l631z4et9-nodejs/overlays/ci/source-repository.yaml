@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: l631z4et9-nodejs-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/l631z4et9-nodejs
